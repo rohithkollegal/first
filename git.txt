@@ -1,0 +1,10 @@
+username : rohithkollegal
+email    : rohith.kollegal
+password : kiran.4530
+
+
+
+git init
+touch filename --- will create the file name under the local reposiotry
+git add filename ---- put the file in the staging env which in turn used to comit the file 
+git commit -m "your message for commit"
